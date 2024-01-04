@@ -1,2 +1,2 @@
-# cp-arch-1001-02-jm
+# S03 Activity 1
 ATM Bank Transaction Simulation
